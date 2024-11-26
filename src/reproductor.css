@@ -1,0 +1,21 @@
+p{
+    text-align: center;
+}
+
+.menu-reproductor{
+    display: block;
+    text-align: center;
+    margin: 30px;
+}
+
+input{
+    padding:10px;
+    text-align: center;
+}
+button{
+    background-color: white;
+    cursor: pointer;
+    padding:10px;
+    color:black;
+}
+
